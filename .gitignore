@@ -1,0 +1,11 @@
+# Entornos virtuales
+venv/
+__pycache__/
+
+# Variables de entorno y contraseñas
+.env
+
+# Datasets (Crucial para no exponer datos reales de ventas o inventarios)
+*.csv
+*.xlsx
+*.db
